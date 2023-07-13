@@ -1,1 +1,2 @@
-# .github
+# White Summit
+## Game developement

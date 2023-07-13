@@ -1,2 +1,0 @@
-# White Summit
-## Game developement
